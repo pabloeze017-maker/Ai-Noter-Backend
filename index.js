@@ -1,6 +1,5 @@
 import express from "express";
 import cors from "cors";
-import dotenv from "dotenv";
 import multer from "multer";
 import fs from "fs";
 import Groq from "groq-sdk";
